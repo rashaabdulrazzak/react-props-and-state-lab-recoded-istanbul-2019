@@ -15,7 +15,7 @@ class App extends React.Component {
     }
   }
 onChangeType=()=>{
-  
+
 }
   render() {
     return (
